@@ -1,0 +1,16 @@
+{
+  "extensionName": {
+    "message": "Andere Tabs schließen",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "Fügt ein Kontextmenü zum Tab-Menü hinzu, das alle anderen Tabs außer dem ausgewählten Tab schließt.",
+    "description": "Description of the extension."
+  },
+
+  "contextItemTitleCloseOtherTabs": {
+      "message": "Andere Tabs schließen",
+      "description": "Title of the context menu item that closes other tabs."
+  }
+}
